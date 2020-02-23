@@ -1,9 +1,9 @@
-# Holbertonschool-zero_day Project.
+# Holbertonschool-zero_day Project
 
-This is my first github repository.
+This is my first github repository
 
-<details open>
-<summary>This project addresses the topics about :</summary>
+<details>
+<summary>**This project addresses the topics about :**</summary>
 <br>
 
 - [Vagrant](https://github.com/FatChicken277/holbertonschool-zero_day/tree/master/0x00-vagrant)
@@ -17,4 +17,4 @@ This is my first github repository.
 
 ## License & copyrigth
 
-Alejandro Ramirez Ciceros, Holberton-School Student.
+[Alejandro Ramirez Ciceros](https://github.com/FatChicken277), Holberton-School Student.
