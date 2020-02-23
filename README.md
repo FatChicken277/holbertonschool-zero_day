@@ -17,4 +17,4 @@
 
 ## License & copyrigth
 
-[Alejandro Ramirez Ciceros](https://github.com/FatChicken277)   **Holberton-School Student.**
+[Alejandro Ramirez Ciceros](https://github.com/FatChicken277) // **Holberton-School Student.**
