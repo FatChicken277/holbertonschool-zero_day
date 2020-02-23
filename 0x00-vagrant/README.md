@@ -6,7 +6,7 @@
 
 **Mandatory**
 
-- 0. 0-hello_ubuntu: Prints out the result of the command uname.
+- **0 =>** 0-hello_ubuntu: Prints out the result of the command uname.
 
 </details>
 
